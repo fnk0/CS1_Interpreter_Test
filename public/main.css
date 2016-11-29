@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.monokai-bg {
+    background-color: #272822;
+}
+
+.cm {
+    height: 100vh;
+}
+
+.output {
+    white-space: pre-wrap;
+}

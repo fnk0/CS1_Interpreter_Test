@@ -1,0 +1,18 @@
+<nav>
+    <div class="nav-wrapper orange darken-2">
+        <a href="#" class="brand-logo" style="margin-left: 20px;">CS1 Test</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a href="" ng-click="runCode()">Run Code</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="row grey darken-4">
+    <div class="col s12 m6 monokai-bg">
+        <div ui-codemirror="cmOption" ng-model="code" class="cm"></div>
+    </div>
+    <div class="col s12 m6 white-text">
+        <h6>Output</h6>
+
+        <p class="output">{{ output }}</p>
+    </div>
+</div>

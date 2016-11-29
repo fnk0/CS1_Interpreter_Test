@@ -1,0 +1,20 @@
+{
+  "name": "cs1-interpreter-public",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-materialize": "^0.2.1",
+    "angular-route": "^1.5.8",
+    "angular-ui-codemirror": "^0.3.0",
+    "codemirror": "^5.21.0",
+    "materialize-css": "^0.97.8"
+  }
+}
