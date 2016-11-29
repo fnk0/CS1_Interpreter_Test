@@ -1,1 +1,1 @@
-Proof of concept on how to use NodeJS for CS capstone course at Okstate.
+Proof of concept on how to use NodeJS for CS capstone course at Oklahoma State University.
